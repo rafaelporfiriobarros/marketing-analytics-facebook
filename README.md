@@ -56,7 +56,7 @@ O ROI foi utilizado como métrica principal para tomada de decisão, por represe
 
 - **Campanha C** concentrou a maior parte do lucro absoluto, sendo o principal motor financeiro da operação.
 
-Insight central: **maior ROI não significa maior lucro**, tornando necessária a análise conjunta de eficiência e escala.
+- Insight central: **maior ROI não significa maior lucro**, tornando necessária a análise conjunta de eficiência e escala.
 
 ### 2. Perfis de Público com Melhor Retorno
 
