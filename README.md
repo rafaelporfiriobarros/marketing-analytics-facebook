@@ -50,7 +50,7 @@ O ROI foi utilizado como métrica principal para tomada de decisão, por represe
 
 ## Análises Realizadas e Principais Insights
 
-1. Performance Geral das Campanhas
+### 1. Performance Geral das Campanhas
 
 - **Campanha A** apresentou o **maior ROI médio**, indicando alta eficiência por real investido.
 
@@ -58,7 +58,7 @@ O ROI foi utilizado como métrica principal para tomada de decisão, por represe
 
 Insight central: **maior ROI não significa maior lucro**, tornando necessária a análise conjunta de eficiência e escala.
 
-2. Perfis de Público com Melhor Retorno
+### 2. Perfis de Público com Melhor Retorno
 
 - A faixa etária **30–34 anos** apresentou o melhor desempenho geral, com maior ROI, lucro e volume de vendas.
 
@@ -66,7 +66,7 @@ Insight central: **maior ROI não significa maior lucro**, tornando necessária 
 
 - O perfil mais eficiente identificado foi: **Homens de 30 a 34 anos.**
 
-3. Categorias de Interesse: Priorizar ou Eliminar
+### 3. Categorias de Interesse: Priorizar ou Eliminar
 
 - Foram identificadas categorias com **ROI extremamente elevado** e baixo investimento histórico, indicando **oportunidades claras de escala.**
 
@@ -76,7 +76,7 @@ Insight central: **maior ROI não significa maior lucro**, tornando necessária 
 
 - Insight-chave: o maior ganho está em **realocar verba para categorias altamente eficientes ainda subexploradas.**
 
-4. Eficiência de Custo (CPC e CC)
+### 4. Eficiência de Custo (CPC e CC)
 
 - **Campanha A** apresentou o menor custo por conversão e o maior ROI médio, sendo a campanha mais eficiente em termos de custo.
 
@@ -84,7 +84,7 @@ Insight central: **maior ROI não significa maior lucro**, tornando necessária 
 
 - Conclusão: eficiência de custo e escala devem ser analisadas em conjunto.
 
-5. Análise do Funil: Clique ou Conversão?
+### 5. Análise do Funil: Clique ou Conversão?
 
 - O **CTR é muito semelhante entre as campanhas**, indicando que os anúncios são eficazes em gerar cliques.
 
@@ -92,7 +92,7 @@ Insight central: **maior ROI não significa maior lucro**, tornando necessária 
 
 - Insight: o problema não está no anúncio, mas na **experiência pós-clique (landing page, oferta ou alinhamento de mensagem).**
 
-6. Anúncios que Sustentam o Negócio
+### 6. Anúncios que Sustentam o Negócio
 
 - Uma pequena parcela dos anúncios concentra a maior parte do lucro.
 
@@ -100,7 +100,7 @@ Insight central: **maior ROI não significa maior lucro**, tornando necessária 
 
 - Anúncios com prejuízo recorrente foram classificados como destruição de valor e recomendados para pausa ou eliminação.
 
-7. Onde Investir a Verba Futura?
+### 7. Onde Investir a Verba Futura?
 
 - Apenas campanhas com **ROI acima da média geral** foram consideradas para alocação futura.
 
